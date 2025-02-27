@@ -49,20 +49,8 @@
 
     <section id="contact">
         <h2>00352681131901 اتصل بنا</h2>
-        <form>
-            <label for="name">الاسم:</label>
-            <input type="text" id="name" name="name" required>
-
-            <label for="email">البريد الإلكتروني:</label>
-            <input type="email" id="email" name="email" required>
-
-            <label for="message">الرسالة:</label>
-            <textarea id="message" name="message" required></textarea>
-
-            <button type="submit">إرسال</button>
-        </form>
-    </section>
+       
         <p>© 2023 وسام ميكاتيك. 00352681131901.جميع الحقوق محفوظة.</p>
-    </footer>
+  
 </body>
 </html>
