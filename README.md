@@ -48,7 +48,7 @@
   </section>
 
     <section id="contact">
-        <h2>اتصل بنا</h2>
+        <h2>00352681131901 اتصل بنا</h2>
         <form>
             <label for="name">الاسم:</label>
             <input type="text" id="name" name="name" required>
